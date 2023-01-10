@@ -1,0 +1,15 @@
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\bin\Debug\net6.0\ContralWork.exe
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\bin\Debug\net6.0\ContralWork.deps.json
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\bin\Debug\net6.0\ContralWork.runtimeconfig.json
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\bin\Debug\net6.0\ContralWork.dll
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\bin\Debug\net6.0\ContralWork.pdb
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.csproj.AssemblyReference.cache
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.AssemblyInfoInputs.cache
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.AssemblyInfo.cs
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.csproj.CoreCompileInputs.cache
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.dll
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\refint\ContralWork.dll
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.pdb
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ContralWork.genruntimeconfig.cache
+C:\Users\kozac\OneDrive\Рабочий стол\ContralWork\obj\Debug\net6.0\ref\ContralWork.dll
